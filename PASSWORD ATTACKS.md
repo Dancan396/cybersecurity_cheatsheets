@@ -1,6 +1,6 @@
 ## Connecting to Target
 
-| **Command**| **Description**|
+| **Command**| **Description**|10.129.12.108
 |-|-|
 | `xfreerdp /v:<ip> /u:htb-student /p:HTB_@cademy_stdnt!` | CLI-based tool used to connect to a Windows target using the Remote Desktop Protocol. |
 | `evil-winrm -i <ip> -u user -p password`            | Uses Evil-WinRM to establish a Powershell session with a target. |
